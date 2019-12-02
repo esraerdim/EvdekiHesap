@@ -1,0 +1,2 @@
+# EvdekiHesap
+Design Patterns
